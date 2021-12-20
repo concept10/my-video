@@ -2,11 +2,20 @@
 
 <p align="center">
   <a href="https://github.com/JonnyBurger/remotion-logo">
-    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png">
+   
   </a>
 </p>
 
 Welcome to your Remotion project!
+
+## Installation
+git clone repository or template
+install nodejs yarn 
+install ffmpeg
+lts stable or who safe repository
+install other libraries consoliated one time 
+
+
 
 ## Errors
 
