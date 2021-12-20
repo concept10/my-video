@@ -20,6 +20,18 @@ export const corporateLogo = () => {
     strokeWidth: 0,
   });
 
+  // Create a fire new company logo with the arc and circle objects for distribution and branding
+  const logo = new Group({
+    children: [arc, circle],
+    x: 0,
+    y: 0,
+  }); // end logo
+
+  
+
+
+
+
 //   const logoFire = new Square({
 //     width: 100,
 //     height: 100,
